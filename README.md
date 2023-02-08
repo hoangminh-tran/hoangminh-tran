@@ -24,7 +24,7 @@
     <img 
          align="center" 
          width="45%"
-         src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" 
+         src="https://github-readme-stats.vercel.app/api?username=thminh101002&count_private=true&show_icons=true&theme=material-palenight" 
     />
   </a>
 
@@ -33,7 +33,7 @@
     <img 
          align="center" 
          width="45%"
-         src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" 
+         src="http://github-readme-streak-stats.herokuapp.com?user=thminh101002&theme=material-palenight" 
     />
   </a>
 </div>
@@ -45,7 +45,7 @@
     <img 
          align="center" 
          width="40%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thminh101002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
     />
   </a >
 </div>
