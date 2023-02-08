@@ -1,21 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:c691e9,100:89dcfe&height=150" width="100%"/>
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
+<!-- Gif -->
+<p align="center"><img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" /></p>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+<!-- Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=3000&color=C691E9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Minh." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5000&pause=1000&color=C691E9&center=true&vCenter=true&width=500&lines=I'm+a+third-year+student+fascinated+by+coding." alt="Typing SVG" />
+</p>
   
 <h3 align="center">My Github status:</h3>
 <div align="center">
