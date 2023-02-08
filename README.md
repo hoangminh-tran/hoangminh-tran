@@ -20,7 +20,7 @@
 <h3 align="center">My Github status:</h3>
 <div align="center">
   <!--Stat -->
-  <a href="https://github.com/minhlam2102002">
+  <a href="https://github.com/thminh101002">
     <img 
          align="center" 
          width="45%"
@@ -29,7 +29,7 @@
   </a>
 
   <!-- Streak stat -->
-  <a href="https://github.com/minhlam2102002">
+  <a href="https://github.com/thminh101002">
     <img 
          align="center" 
          width="45%"
@@ -41,7 +41,7 @@
 <!-- Langueges stat -->
 <h3 align="center">Most used language on Github: </h3>
 <div align="center">
-  <a href="https://github.com/minhlam2102002">
+  <a href="https://github.com/thminh101002">
     <img 
          align="center" 
          width="40%"
