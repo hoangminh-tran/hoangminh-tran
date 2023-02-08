@@ -17,7 +17,38 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+<h3 align="center">My Github status:</h3>
+<div align="center">
+  <!--Stat -->
+  <a href="https://github.com/minhlam2102002">
+    <img 
+         align="center" 
+         width="45%"
+         src="https://github-readme-stats.vercel.app/api?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight" 
+    />
+  </a>
 
+  <!-- Streak stat -->
+  <a href="https://github.com/minhlam2102002">
+    <img 
+         align="center" 
+         width="45%"
+         src="http://github-readme-streak-stats.herokuapp.com?user=minhlam2102002&theme=material-palenight" 
+    />
+  </a>
+</div>
+
+<!-- Langueges stat -->
+<h3 align="center">Most used language on Github: </h3>
+<div align="center">
+  <a href="https://github.com/minhlam2102002">
+    <img 
+         align="center" 
+         width="40%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhlam2102002&count_private=true&show_icons=true&theme=material-palenight&layout=compact" 
+    />
+  </a >
+</div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -38,8 +69,4 @@
 <br/>   
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thminh101002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
